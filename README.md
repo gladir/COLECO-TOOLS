@@ -3,7 +3,7 @@ Suite de commande écrit en Pascal (Turbo Pascal ou Free Pascal) pour la console
 
 <h2>Liste des fichiers</h2>
 
-Voici la liste des différents fichiers proposés dans ATARITOOLS :
+Voici la liste des différents fichiers proposés dans COLECO-TOOLS :
 
 <table>
 		<tr>
